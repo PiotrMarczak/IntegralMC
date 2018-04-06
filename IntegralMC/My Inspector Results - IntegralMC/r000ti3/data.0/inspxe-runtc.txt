@@ -1,0 +1,130 @@
+
+=== Start: [2018/02/02 10:30:15] === 
+Analysis started...
+Result file: C:\Users\piotr\Desktop\IntegralMC\IntegralMC\My Inspector Results - IntegralMC\r000ti3\r000ti3.inspxe 
+Found target process c:\users\piotr\desktop\integralmc\x64\debug\integralmc.exe (PID = 8360). Analysis started... 
+Loaded module: c:\users\piotr\desktop\integralmc\x64\debug\integralmc.exe. 
+Loaded module: c:\windows\system32\kernelbase.dll. 
+Loaded module: c:\windows\system32\kernel32.dll. 
+Loaded module: c:\windows\system32\ntdll.dll. 
+Loaded module: c:\users\piotr\desktop\integralmc\x64\debug\cudart64_91.dll. 
+Loaded module: c:\windows\system32\vcruntime140d.dll. 
+Loaded module: c:\windows\system32\msvcp140d.dll. 
+Loaded module: c:\program files (x86)\intelswtools\compilers_and_libraries_2018.1.156\windows\mpi\intel64\bin\impi.dll. 
+Loaded module: c:\windows\system32\ws2_32.dll. 
+Loaded module: c:\windows\system32\ucrtbased.dll. 
+Loaded module: c:\windows\system32\mswsock.dll. 
+Loaded module: c:\windows\system32\rpcrt4.dll. 
+Loaded module: c:\windows\system32\crypt32.dll. 
+Loaded module: c:\windows\system32\ucrtbase.dll. 
+Loaded module: c:\windows\system32\mpr.dll. 
+Loaded module: c:\windows\system32\msasn1.dll. 
+Loaded module: c:\windows\system32\advapi32.dll. 
+Loaded module: c:\windows\system32\msvcrt.dll. 
+Loaded module: c:\windows\system32\iphlpapi.dll. 
+Loaded module: c:\windows\system32\sechost.dll. 
+Loaded module: c:\windows\system32\ole32.dll. 
+Loaded module: c:\windows\system32\combase.dll. 
+Loaded module: c:\windows\system32\bcryptprimitives.dll. 
+Loaded module: c:\windows\system32\gdi32.dll. 
+Loaded module: c:\windows\system32\gdi32full.dll. 
+Loaded module: c:\windows\system32\msvcp_win.dll. 
+Loaded module: c:\windows\system32\user32.dll. 
+Loaded module: c:\windows\system32\win32u.dll. 
+Loaded module: c:\windows\system32\oleaut32.dll. 
+Loaded module: c:\windows\system32\secur32.dll. 
+Loaded module: c:\windows\system32\ntdsapi.dll. 
+Loaded module: c:\windows\system32\dsparse.dll. 
+Loaded module: c:\windows\system32\sspicli.dll. 
+Loaded module: c:\windows\system32\imm32.dll. 
+Loaded module: c:\program files (x86)\intelswtools\compilers_and_libraries_2018.1.156\windows\mpi\intel64\bin\libimalloc.dll. 
+Unloaded module: c:\program files (x86)\intelswtools\compilers_and_libraries_2018.1.156\windows\mpi\intel64\bin\libimalloc.dll. 
+Loaded module: c:\program files (x86)\intelswtools\compilers_and_libraries_2018.1.156\windows\mpi\intel64\bin\libimalloc.dll. 
+Unloaded module: c:\program files (x86)\intelswtools\compilers_and_libraries_2018.1.156\windows\mpi\intel64\bin\libimalloc.dll. 
+Loaded module: c:\windows\system32\napinsp.dll. 
+Loaded module: c:\windows\system32\pnrpnsp.dll. 
+Loaded module: c:\windows\system32\nlaapi.dll. 
+Loaded module: c:\windows\system32\dnsapi.dll. 
+Loaded module: c:\windows\system32\nsi.dll. 
+Loaded module: c:\windows\system32\winrnr.dll. 
+Loaded module: c:\windows\system32\setupapi.dll. 
+Loaded module: c:\windows\system32\cfgmgr32.dll. 
+Loaded module: c:\windows\system32\devobj.dll. 
+Loaded module: c:\windows\system32\wintrust.dll. 
+Loaded module: c:\windows\system32\shell32.dll. 
+Loaded module: c:\windows\system32\shcore.dll. 
+Loaded module: c:\windows\system32\windows.storage.dll. 
+Loaded module: c:\windows\system32\shlwapi.dll. 
+Loaded module: c:\windows\system32\kernel.appcore.dll. 
+Loaded module: c:\windows\system32\powrprof.dll. 
+Loaded module: c:\windows\system32\profapi.dll. 
+Loaded module: c:\windows\system32\nvcuda.dll. 
+Loaded module: c:\windows\system32\version.dll. 
+Loaded module: c:\windows\system32\nvfatbinaryloader.dll. 
+Loaded module: c:\windows\system32\dwmapi.dll. 
+Loaded module: c:\windows\system32\uxtheme.dll. 
+Unloaded module: c:\windows\system32\dwmapi.dll. 
+Loaded module: c:\windows\system32\nvapi64.dll. 
+Loaded module: c:\windows\system32\dxgi.dll. 
+Unloaded module: c:\users\piotr\desktop\integralmc\x64\debug\integralmc.exe. 
+Unloaded module: c:\windows\system32\kernelbase.dll. 
+Unloaded module: c:\windows\system32\kernel32.dll. 
+Unloaded module: c:\windows\system32\ntdll.dll. 
+Unloaded module: c:\users\piotr\desktop\integralmc\x64\debug\cudart64_91.dll. 
+Unloaded module: c:\windows\system32\vcruntime140d.dll. 
+Unloaded module: c:\windows\system32\msvcp140d.dll. 
+Unloaded module: c:\program files (x86)\intelswtools\compilers_and_libraries_2018.1.156\windows\mpi\intel64\bin\impi.dll. 
+Unloaded module: c:\windows\system32\ws2_32.dll. 
+Unloaded module: c:\windows\system32\ucrtbased.dll. 
+Unloaded module: c:\windows\system32\mswsock.dll. 
+Unloaded module: c:\windows\system32\rpcrt4.dll. 
+Unloaded module: c:\windows\system32\crypt32.dll. 
+Unloaded module: c:\windows\system32\ucrtbase.dll. 
+Unloaded module: c:\windows\system32\mpr.dll. 
+Unloaded module: c:\windows\system32\msasn1.dll. 
+Unloaded module: c:\windows\system32\advapi32.dll. 
+Unloaded module: c:\windows\system32\msvcrt.dll. 
+Unloaded module: c:\windows\system32\iphlpapi.dll. 
+Unloaded module: c:\windows\system32\sechost.dll. 
+Unloaded module: c:\windows\system32\ole32.dll. 
+Unloaded module: c:\windows\system32\combase.dll. 
+Unloaded module: c:\windows\system32\bcryptprimitives.dll. 
+Unloaded module: c:\windows\system32\gdi32.dll. 
+Unloaded module: c:\windows\system32\gdi32full.dll. 
+Unloaded module: c:\windows\system32\msvcp_win.dll. 
+Unloaded module: c:\windows\system32\user32.dll. 
+Unloaded module: c:\windows\system32\win32u.dll. 
+Unloaded module: c:\windows\system32\oleaut32.dll. 
+Unloaded module: c:\windows\system32\secur32.dll. 
+Unloaded module: c:\windows\system32\ntdsapi.dll. 
+Unloaded module: c:\windows\system32\dsparse.dll. 
+Unloaded module: c:\windows\system32\sspicli.dll. 
+Unloaded module: c:\windows\system32\imm32.dll. 
+Unloaded module: c:\windows\system32\napinsp.dll. 
+Unloaded module: c:\windows\system32\pnrpnsp.dll. 
+Unloaded module: c:\windows\system32\nlaapi.dll. 
+Unloaded module: c:\windows\system32\dnsapi.dll. 
+Unloaded module: c:\windows\system32\nsi.dll. 
+Unloaded module: c:\windows\system32\winrnr.dll. 
+Unloaded module: c:\windows\system32\setupapi.dll. 
+Unloaded module: c:\windows\system32\cfgmgr32.dll. 
+Unloaded module: c:\windows\system32\devobj.dll. 
+Unloaded module: c:\windows\system32\wintrust.dll. 
+Unloaded module: c:\windows\system32\shell32.dll. 
+Unloaded module: c:\windows\system32\shcore.dll. 
+Unloaded module: c:\windows\system32\windows.storage.dll. 
+Unloaded module: c:\windows\system32\shlwapi.dll. 
+Unloaded module: c:\windows\system32\kernel.appcore.dll. 
+Unloaded module: c:\windows\system32\powrprof.dll. 
+Unloaded module: c:\windows\system32\profapi.dll. 
+Unloaded module: c:\windows\system32\nvcuda.dll. 
+Unloaded module: c:\windows\system32\version.dll. 
+Unloaded module: c:\windows\system32\nvfatbinaryloader.dll. 
+Unloaded module: c:\windows\system32\uxtheme.dll. 
+Unloaded module: c:\windows\system32\nvapi64.dll. 
+Unloaded module: c:\windows\system32\dxgi.dll. 
+Process c:\users\piotr\desktop\integralmc\x64\debug\integralmc.exe (PID = 8360) has terminated. 
+Application exit code: 0 
+Result file: C:\Users\piotr\Desktop\IntegralMC\IntegralMC\My Inspector Results - IntegralMC\r000ti3\r000ti3.inspxe 
+Analysis completed
+=== End: [2018/02/02 10:30:54] === 

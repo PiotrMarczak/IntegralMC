@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Pliki źródłowe">
+      <UniqueIdentifier>{5d8b71a0-c262-4d25-b139-7d2d9f483ad3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe">
+      <UniqueIdentifier>{54fe1ccb-e6e7-478a-9813-4bda75cf4786}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <CudaCompile Include="cudaMC.cu">
+      <Filter>Pliki źródłowe</Filter>
+    </CudaCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="GUI.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="OMPMC.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="SP.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="MPIMC.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="cudaMC.cuh">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="GUI.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="OMPMC.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="SP.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="MPIMC.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
